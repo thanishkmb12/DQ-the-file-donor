@@ -159,7 +159,7 @@ Nᴀᴍᴇ - {}"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Thanishk
-• ᴜꜱᴇʀɴᴀᴍᴇ : @@devil_king545
+• ᴜꜱᴇʀɴᴀᴍᴇ : @devil_king545
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/devil_king545'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
@@ -205,8 +205,8 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @Mallu_Moviz1
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @FilimCompanyRequest3
+▫️ ᴄʜᴀɴɴᴇʟ: @Mallu_Moviz1
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: [Filim Company™](https://t.me/filimcompanyrequest3)
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
